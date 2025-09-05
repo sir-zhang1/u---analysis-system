@@ -477,8 +477,6 @@ graph LR
 
 ### ⭐ **如果这个项目对你有帮助，请给个Star支持一下！**
 
-[![GitHub stars]  
-[![GitHub forks]  
 由张梦昂用❤️制作
 </div>
 
