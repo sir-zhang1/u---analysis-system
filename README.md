@@ -452,7 +452,7 @@ graph LR
 | 问题类型 | 推荐解决方案 | 链接地址 |
 |:--------:|:-------------|:---------|
 | **🐛 Bug反馈** | 提交GitHub Issue | [Issues页面](https://github.com/your-username/u-tuantuan-analysis/issues) |
-| **💡 功能建议** | 发起Discussion | [讨论区](https://github.com/your-username/u-tuantuan-analysis/discussions) |
+| **💡 功能建议** | 发起Discussion | [讨论区](https://github.com/your-username/u-tuantuan-analysis/discussions) |  
 | **📖 技术文档** | 查看官方文档 | [Streamlit文档](https://docs.streamlit.io/) |
 | **🔧 算法问题** | 参考学习资源 | [Scikit-learn](https://scikit-learn.org/) • [MLxtend](http://rasbt.github.io/mlxtend/) |
 
@@ -479,9 +479,9 @@ graph LR
 
 ### ⭐ **如果这个项目对你有帮助，请给个Star支持一下！**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/u-tuantuan-analysis.svg?style=social&label=Star)](https://github.com/your-username/u-tuantuan-analysis)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/u-tuantuan-analysis.svg?style=social&label=Fork)](https://github.com/your-username/u-tuantuan-analysis/fork)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/u-tuantuan-analysis.svg?style=social&label=Star)](https://github.com/your-username/u-tuantuan-analysis)        
+[![GitHub forks](https://img.shields.io/github/forks/your-username/u-tuantuan-analysis.svg?style=social&label=Fork)](https://github.com/your-username/u-tuantuan-analysis/fork)  
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by 张梦昂**                          
 
 </div>
